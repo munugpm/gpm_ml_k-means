@@ -1,6 +1,8 @@
 # gpm_ml_k-means
 What Is Clustering?
+
   Overview
+  
   Partitional, Hierarchical, Density-Based Clustering
 How to Perform K-Means Clustering in Python
 Understanding the K-Means Algorithm
